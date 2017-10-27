@@ -1,0 +1,13 @@
+/*Estilo del navegador de arriba */
+nav{
+    box-shadow:none;
+    background:none;
+    position: absolute;
+    top: 0;
+    padding: 30px;
+    height: 50px;
+}
+
+.page-footer{
+    background-color: rgb(28, 231, 147); 
+}
